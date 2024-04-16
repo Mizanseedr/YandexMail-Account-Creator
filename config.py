@@ -1,1 +1,1 @@
-phonekey = 'YOUR 5SIM.NET API KEY'
+phonekey = '78009005040'
